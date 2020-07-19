@@ -1,0 +1,20 @@
+Q1. What is your understanding of blockchain?
+ANS. Blockchain is a distributed database existing on multiple computers at the same time.I is a combination of cyrptography and distributed database.It provides high security and verifiablity over internet.
+
+Q2. What is the core problem blockchain trying to solve?
+ANS. i)To ensure secure transactions
+      ii)data loss
+      iii)frauds and scams
+      
+Q3.What are the few features blochain will giye you?
+ANS. Cannot be Corrupted. 
+Immutability
+Decentralized Technology
+Enhanced Security
+Distributed Ledgers
+
+Q4.What aall things a block contains?
+ANS. block number,transaction record,previous block signature
+
+Q5.How is verifiability achieved in blockchain?
+ANS.It is verifiable, in that anybody can check all of the transactions and hashes all the way back to the genesis block, and if any attempt to change anything is made, the hash values will change and verification will fail.
