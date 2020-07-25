@@ -1,0 +1,19 @@
+Land contract solidity smart contract
+
+pragma solidity >=0.4.17 <0.7.0;
+
+contract Land{
+    string OwnerOfTheLand;
+    
+    function Land( string newOwner) public{         //It runs only one time since its a constructor function so it initalizes once
+        OwnerOfTheLand = newOwner;
+    }
+    
+    function setDetails(string newOwner)public{
+        OwnerOfTheLand = newOwner;
+    }
+        function getDetail() public view returns(string){
+        return(OwnerOfTheLand);
+    }
+    
+}
